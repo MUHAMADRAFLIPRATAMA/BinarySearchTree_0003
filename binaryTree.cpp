@@ -12,4 +12,7 @@ public:
     Node()
     {
         leftchild = nullptr; // initizlize left child to null
-        
+        rightchild = nullptr; // initialize right child to nul
+    }
+};
+
