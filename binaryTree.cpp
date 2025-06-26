@@ -10,4 +10,6 @@ public:
 
     //Constructor for the node Class
     Node()
-   
+    {
+        leftchild = nullptr; // initizlize left child to null
+        
